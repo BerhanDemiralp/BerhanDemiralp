@@ -1,8 +1,31 @@
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BerhanDemiralp&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BerhanDemiralp&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BerhanDemiralp&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+</p>
+<p align="center">
+  Computer Engineer - Full-stack Tech Nomad
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="55" height="55"/>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+    <div/>
+  </a>
+</p>
+
+
+<p align="row">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=BerhanDemiralp&theme=catppuccin_mocha&hide_border=false" height="200"/>
+  <p></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berhandemiralp&custom_title=Contribution%20Graph%20&hide_border=true&" height="200" width=""/>
+</p>
+
+
