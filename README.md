@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
-</p>
-<p align="center">
-  Computer Engineer - Full-stack Tech Nomad
-</p>
+<h1 align="center">
+  Computer Engineer - Full Stack Tech Nomad
+</h1>
 
----
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,10 +19,8 @@
 </p>
 
 
-<p align="row">
+<p align="center" >
   <img src="https://nirzak-streak-stats.vercel.app/?user=BerhanDemiralp&theme=catppuccin_mocha&hide_border=false" height="200"/>
-  <p></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berhandemiralp&custom_title=Contribution%20Graph%20&hide_border=true&" height="200" width=""/>
 </p>
 
 
